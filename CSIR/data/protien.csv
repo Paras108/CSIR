@@ -1,0 +1,467 @@
+Protien Names,Genes,Length
+PRA1 family protein 3 (ADP-ribosylation factor-like protein 6-interacting protein 5) (ARL-6-interacting protein 5) (Aip-5) (Cytoskeleton-related vitamin A-responsive protein) (Dermal papilla-derived protein 11) (GTRAP3-18) (Glutamate transporter EAAC1-interacting protein) (JM5) (Prenylated Rab acceptor protein 2) (Protein JWa) (Putative MAPK-activating protein PM27),ARL6IP5 DERP11 JWA PRA2 PRAF3 HSPC127,188
+Receptor for retinol uptake STRA6 (Retinol-binding protein receptor STRA6) (Stimulated by retinoic acid gene 6 protein homolog),STRA6 PP14296 UNQ3126/PRO10282/PRO19578,667
+Retinol-binding protein 1 (Cellular retinol-binding protein) (CRBP) (Cellular retinol-binding protein I) (CRBP-I),RBP1 CRBP1,135
+Retinol-binding protein 4 (Plasma retinol-binding protein) (PRBP) (RBP) [Cleaved into: Plasma retinol-binding protein(1-182); Plasma retinol-binding protein(1-181); Plasma retinol-binding protein(1-179); Plasma retinol-binding protein(1-176)],RBP4 PRO2222,201
+Lecithin retinol acyltransferase (EC 2.3.1.135) (Phosphatidylcholine--retinol O-acyltransferase),LRAT,230
+"Beta,beta-carotene 15,15'-dioxygenase (EC 1.13.11.63) (Beta-carotene dioxygenase 1) (Beta-carotene oxygenase 1)",BCO1 BCDO BCDO1 BCMO1,547
+Retinal dehydrogenase 2 (RALDH 2) (RalDH2) (EC 1.2.1.36) (Aldehyde dehydrogenase family 1 member A2) (Retinaldehyde-specific dehydrogenase type 2) (RALDH(II)),ALDH1A2 RALDH2,518
+Retinaldehyde-binding protein 1 (Cellular retinaldehyde-binding protein),RLBP1 CRALBP,317
+Retinoid isomerohydrolase (EC 3.1.1.64) (All-trans-retinyl-palmitate hydrolase) (Lutein isomerase) (Meso-zeaxanthin isomerase) (EC 5.3.3.22) (Retinal pigment epithelium-specific 65 kDa protein) (Retinol isomerase),RPE65,533
+Retinol-binding protein 3 (Interphotoreceptor retinoid-binding protein) (IRBP) (Interstitial retinol-binding protein),RBP3,1247
+Peroxisome proliferator-activated receptor delta (PPAR-delta) (NUCI) (Nuclear hormone receptor 1) (NUC1) (Nuclear receptor subfamily 1 group C member 2) (Peroxisome proliferator-activated receptor beta) (PPAR-beta),PPARD NR1C2 PPARB,441
+Cellular retinoic acid-binding protein 2 (Cellular retinoic acid-binding protein II) (CRABP-II),CRABP2,138
+"Cytochrome P450 27C1 (EC 1.14.19.53) (All-trans retinol 3,4-desaturase)",CYP27C1,372
+Cytochrome P450 26A1 (EC 1.14.13.-) (Cytochrome P450 retinoic acid-inactivating 1) (Cytochrome P450RAI) (hP450RAI) (Retinoic acid 4-hydroxylase) (Retinoic acid-metabolizing cytochrome),CYP26A1 CYP26 P450RAI1,497
+Retinol dehydrogenase 11 (EC 1.1.1.300) (Androgen-regulated short-chain dehydrogenase/reductase 1) (HCV core-binding protein HCBP12) (Prostate short-chain dehydrogenase/reductase 1) (Retinal reductase 1) (RalR1) (Short chain dehydrogenase/reductase family 7C member 1),RDH11 ARSDR1 PSDR1 SDR7C1 CGI-82,318
+Aldehyde dehydrogenase family 1 member A3 (EC 1.2.1.36) (Aldehyde dehydrogenase 6) (Retinaldehyde dehydrogenase 3) (RALDH-3) (RalDH3),ALDH1A3 ALDH6,512
+Retinol dehydrogenase 12 (EC 1.1.1.300) (All-trans and 9-cis retinol dehydrogenase) (Short chain dehydrogenase/reductase family 7C member 2),RDH12 SDR7C2,316
+Peroxisome proliferator-activated receptor gamma (PPAR-gamma) (Nuclear receptor subfamily 1 group C member 3),PPARG NR1C3,505
+Sodium-dependent phosphate transport protein 2A (Sodium-phosphate transport protein 2A) (Na(+)-dependent phosphate cotransporter 2A) (NaPi-3) (Sodium/phosphate cotransporter 2A) (Na(+)/Pi cotransporter 2A) (NaPi-2a) (Solute carrier family 34 member 1),SLC34A1 NPT2 SLC17A2,639
+Retinol dehydrogenase 14 (EC 1.1.1.300) (Alcohol dehydrogenase PAN2) (Short chain dehydrogenase/reductase family 7C member 4),RDH14 PAN2 SDR7C4 UNQ529/PRO1072,336
+Tyrosine-protein kinase JAK2 (EC 2.7.10.2) (Janus kinase 2) (JAK-2),JAK2,1132
+Microtubule-associated protein 1B (MAP-1B) [Cleaved into: MAP1B heavy chain; MAP1 light chain LC1],MAP1B,2468
+Cytochrome P450 26B1 (EC 1.14.13.-) (Cytochrome P450 26A2) (Cytochrome P450 retinoic acid-inactivating 2) (Cytochrome P450RAI-2) (Retinoic acid-metabolizing cytochrome),CYP26B1 CYP26A2 P450RAI2,512
+Phospholipase A and acyltransferase 3 (EC 2.3.1.-) (EC 3.1.1.32) (EC 3.1.1.4) (Adipose-specific phospholipase A2) (AdPLA) (Group XVI phospholipase A1/A2) (H-rev 107 protein homolog) (H-REV107) (HREV107-1) (HRAS-like suppressor 1) (HRAS-like suppressor 3) (HRSL3) (HREV107-3) (Renal carcinoma antigen NY-REN-65),PLAAT3 HRASLS3 HREV107 PLA2G16,162
+Retinol dehydrogenase 13 (EC 1.1.1.300) (Short chain dehydrogenase/reductase family 7C member 3),RDH13 SDR7C3 PSEC0082 UNQ736/PRO1430,331
+Retinoic acid receptor alpha (RAR-alpha) (Nuclear receptor subfamily 1 group B member 1),RARA NR1B1,462
+"Thymidylate synthetase (Thymidylate synthetase, isoform CRA_f) (cDNA, FLJ94841, Homo sapiens thymidylate synthetase (TYMS), mRNA)",TYMS hCG_1994842,313
+Pancreas-intestine homeodomain transcription factor,Pix-1,245
+Retinol-binding protein 1,RBP1,91
+"Cytochrome P450, family 1, subfamily A, polypeptide 1 (Cytochrome P450, family 1, subfamily A, polypeptide 1, isoform CRA_a) (cDNA, FLJ94514, Homo sapiens cytochrome P450, family 1, subfamily A, polypeptide 1(CYP1A1), mRNA)",CYP1A1 hCG_40803,512
+"Solute carrier family 34 (Sodium phosphate), member 1, isoform CRA_b",SLC34A1 hCG_41577,639
+Retinol-binding protein 1,RBP1,98
+Acyl-CoA (8-3)-desaturase (Fatty acid desaturase 1),FADS1 hCG_40849,501
+"Retinol binding protein 1, cellular (Retinol-binding protein 1)",RBP1 hCG_16055,197
+"All-trans-retinol 13,14-reductase (EC 1.3.99.23) (All-trans-13,14-dihydroretinol saturase) (RetSat) (PPAR-alpha-regulated and starvation-induced gene protein)",RETSAT PPSIG UNQ439/PRO872,610
+Selenoprotein F (15 kDa selenoprotein),SELENOF SEP15,165
+Retinol dehydrogenase 8 (EC 1.1.1.300) (Photoreceptor outer segment all-trans retinol dehydrogenase) (Short chain dehydrogenase/reductase family 28C member 2),RDH8 PRRDH SDR28C2,311
+Cellular retinoic acid-binding protein 1 (Cellular retinoic acid-binding protein I) (CRABP-I),CRABP1 RBP5,137
+Retinol-binding protein 2 (Cellular retinol-binding protein II) (CRBP-II),RBP2 CRBP2,134
+Retinol dehydrogenase 5 (EC 1.1.1.209) (EC 1.1.1.315) (EC 1.1.1.53) (11-cis retinol dehydrogenase) (11-cis RDH) (11-cis RoDH) (9-cis retinol dehydrogenase) (9cRDH) (Short chain dehydrogenase/reductase family 9C member 5),RDH5 HSD17B9 RDH1 SDR9C5,318
+Retinoid-binding protein 7 (Cellular retinoic acid-binding protein 4) (CRABP4) (CRBP4) (Cellular retinoic acid-binding protein IV) (CRABP-IV),RBP7,134
+Retinol-binding protein 5 (Cellular retinol-binding protein III) (CRBP-III) (HRBPiso),RBP5,135
+Intestine-specific homeobox (RAX-like homeobox),ISX RAXLX,245
+Hematopoietic prostaglandin D synthase (H-PGDS) (EC 5.3.99.2) (GST class-sigma) (Glutathione S-transferase) (EC 2.5.1.18) (Glutathione-dependent PGD synthase) (Glutathione-requiring prostaglandin D synthase) (Prostaglandin-H2 D-isomerase),HPGDS GSTS PGDS PTGDS2,199
+DNA (cytosine-5)-methyltransferase 3B (Dnmt3b) (EC 2.1.1.37) (DNA methyltransferase HsaIIIB) (DNA MTase HsaIIIB) (M.HsaIIIB),DNMT3B,853
+Arginase-1 (EC 3.5.3.1) (Liver-type arginase) (Type I arginase),ARG1,322
+Hepcidin (Liver-expressed antimicrobial peptide 1) (LEAP-1) (Putative liver tumor regressor) (PLTR) [Cleaved into: Hepcidin-25 (Hepc25); Hepcidin-20 (Hepc20)],HAMP HEPC LEAP1 UNQ487/PRO1003,84
+Retinal-specific phospholipid-transporting ATPase ABCA4 (EC 7.6.2.1) (ATP-binding cassette sub-family A member 4) (RIM ABC transporter) (RIM protein) (RmP) (Retinal-specific ATP-binding cassette transporter) (Stargardt disease protein),ABCA4 ABCR,2273
+"Retinal dehydrogenase 1 (RALDH 1) (RalDH1) (EC 1.2.1.-) (EC 1.2.1.36) (ALDH-E1) (ALHDII) (Aldehyde dehydrogenase family 1 member A1) (Aldehyde dehydrogenase, cytosolic)",ALDH1A1 ALDC ALDH1 PUMB1,501
+Catalase (EC 1.11.1.6),CAT,527
+Apolipoprotein D (Apo-D) (ApoD),APOD,189
+Erythropoietin (Epoetin),EPO,193
+Transcription factor GATA-4 (GATA-binding factor 4),GATA4,442
+Short-chain dehydrogenase/reductase family 9C member 7 (EC 1.1.1.-) (Orphan short-chain dehydrogenase/reductase) (SDR-O) (RDH-S),SDR9C7 RDHS SDRO,313
+Thymidylate synthase (TS) (TSase) (EC 2.1.1.45),TYMS TS OK/SW-cl.29,313
+Dehydrogenase/reductase SDR family member 4 (EC 1.1.1.184) (NADPH-dependent carbonyl reductase/NADP-retinol dehydrogenase) (CR) (PHCR) (NADPH-dependent retinol dehydrogenase/reductase) (NRDR) (humNRDR) (Peroxisomal short-chain alcohol dehydrogenase) (PSCD) (SCAD-SRL) (Short chain dehydrogenase/reductase family 25C member 2) (Short-chain dehydrogenase/reductase family member 4),DHRS4 SDR25C2 UNQ851/PRO1800,278
+Albumin,ALB GIG20 GIG42 PRO0903 PRO1708 PRO2044 PRO2619 PRO2675 UNQ696/PRO1341,609
+DNA (cytosine-5)-methyltransferase 3A (Dnmt3a) (EC 2.1.1.37) (DNA methyltransferase HsaIIIA) (DNA MTase HsaIIIA) (M.HsaIIIA),DNMT3A,912
+Complement component C8 gamma chain,C8G,202
+Short-chain dehydrogenase/reductase 3 (EC 1.1.1.300) (DD83.1) (Retinal short-chain dehydrogenase/reductase 1) (retSDR1) (Retinol dehydrogenase 17) (Short chain dehydrogenase/reductase family 16C member 1),DHRS3 RDH17 SDR16C1 UNQ2424/PRO4983,302
+Cytochrome P450 1A1 (CYPIA1) (EC 1.14.14.1) (Cytochrome P450 form 6) (Cytochrome P450-C) (Cytochrome P450-P1) (Hydroperoxy icosatetraenoate dehydratase) (EC 4.2.1.152),CYP1A1,512
+Sphingolipid delta(4)-desaturase DES1 (EC 1.14.19.17) (Cell migration-inducing gene 15 protein) (Degenerative spermatocyte homolog 1) (Dihydroceramide desaturase-1) (Membrane lipid desaturase),DEGS1 DES1 MLD MIG15,323
+Metalloproteinase inhibitor 3 (Protein MIG-5) (Tissue inhibitor of metalloproteinases 3) (TIMP-3),TIMP3,211
+Thyrotropin subunit beta (Thyroid-stimulating hormone subunit beta) (TSH-B) (TSH-beta) (Thyrotropin beta chain) (Thyrotropin alfa),TSHB,138
+"RARA protein (Retinoic acid nuclear receptor alpha variant 1) (Retinoic acid receptor, alpha, isoform CRA_c) (cDNA, FLJ92939, Homo sapiens retinoic acid receptor, alpha (RARA), mRNA)",RARA NR1B1 hCG_2007196,462
+Keratin (Fragment),keratin,244
+"Peroxisome proliferative activated receptor, delta, isoform CRA_a",PPARD hCG_17666,441
+Catalase (EC 1.11.1.6),,527
+Erythropoietin,EPO hCG_20446,193
+,,
+Cubilin (460 kDa receptor) (Intestinal intrinsic factor receptor) (Intrinsic factor-cobalamin receptor) (Intrinsic factor-vitamin B12 receptor),CUBN IFCR,3623
+Methionine synthase (MS) (EC 2.1.1.13) (5-methyltetrahydrofolate--homocysteine methyltransferase) (Cobalamin-dependent methionine synthase) (Vitamin-B12 dependent methionine synthase),MTR,1265
+Cyanocobalamin reductase / alkylcobalamin dealkylase (Alkylcobalamin:glutathione S-alkyltransferase) (EC 2.5.1.151) (CblC) (Cyanocobalamin reductase (cyanide-eliminating)) (EC 1.16.1.6) (Methylmalonic aciduria and homocystinuria type C protein) (MMACHC),MMACHC,282
+Lysosomal cobalamin transport escort protein LMBD1 (LMBD1) (HDAg-L-interacting protein NESI) (LMBR1 domain-containing protein 1) (Nuclear export signal-interacting protein),LMBRD1 C6orf209 NESI BM-021 CD001 MSTP044,540
+"Methylmalonic aciduria type A protein, mitochondrial (EC 3.6.-.-)",MMAA,418
+"Methylmalonyl-CoA mutase, mitochondrial (MCM) (EC 5.4.99.2) (Methylmalonyl-CoA isomerase)",MMUT MUT,750
+"Citramalyl-CoA lyase, mitochondrial (EC 4.1.3.25) ((3S)-malyl-CoA thioesterase) (EC 3.1.2.30) (Beta-methylmalate synthase) (EC 2.3.3.-) (Citrate lyase subunit beta-like protein) (Citrate lyase beta-like) (Malate synthase) (EC 2.3.3.9)",CLYBL CLB,340
+"Cobalamin trafficking protein CblD (CblD) (Methylmalonic aciduria and homocystinuria type D protein, mitochondrial)",MMADHC C2orf25 CL25022 HSPC161 My011,296
+"Corrinoid adenosyltransferase (EC 2.5.1.17) (Cob(II)alamin adenosyltransferase) (Cob(II)yrinic acid a,c-diamide adenosyltransferase) (Cobinamide/cobalamin adenosyltransferase) (Methylmalonic aciduria type B protein)",MMAB,250
+Protein amnionless [Cleaved into: Soluble protein amnionless],AMN UNQ513/PRO1028,453
+Methionine synthase reductase (MSR) (EC 1.16.1.8) (Aquacobalamin reductase) (AqCbl reductase) (EC 1.16.1.5),MTRR,698
+"Galactoside alpha-(1,2)-fucosyltransferase 2 (Alpha(1,2)FT 2) (Fucosyltransferase 2) (GDP-L-fucose:beta-D-galactoside 2-alpha-L-fucosyltransferase 2) (SE2) (Secretor blood group alpha-2-fucosyltransferase) (Secretor factor) (Se) (Type 1 galactoside alpha-(1,2)-fucosyltransferase FUT2) (EC 2.4.1.69) (Type 2 galactoside alpha-(1,2)-fucosyltransferase FUT2) (EC 2.4.1.344)",FUT2 SEC2,343
+Major histocompatibility complex class I-related gene protein (MHC class I-related gene protein) (Class I histocompatibility antigen-like protein),MR1,341
+Lysosomal cobalamin transporter ABCD4 (ATP-binding cassette sub-family D member 4) (PMP70-related protein) (P70R) (Peroxisomal membrane protein 1-like) (PXMP1-L) (Peroxisomal membrane protein 69) (PMP69),ABCD4 PXMP1L,606
+Transcobalamin-2 (TC-2) (Transcobalamin II) (TC II) (TCII),TCN2 TC2,427
+CD320 antigen (8D6 antigen) (FDC-signaling molecule 8D6) (FDC-SM-8D6) (Transcobalamin receptor) (TCblR) (CD antigen CD320),CD320 8D6A UNQ198/PRO224,282
+"Solute carrier family 52, riboflavin transporter, member 3 (Riboflavin transporter 2) (hRFT2)",SLC52A3 C20orf54 RFT2 RFVT3,469
+"Solute carrier family 52, riboflavin transporter, member 2 (Porcine endogenous retrovirus A receptor 1) (PERV-A receptor 1) (Protein GPR172A) (Riboflavin transporter 3) (hRFT3)",SLC52A2 GPR172A PAR1 RFT3,445
+Pyridoxal kinase (EC 2.7.1.35) (Pyridoxine kinase),PDXK C21orf124 C21orf97 PKH PNK PRED79,312
+"Solute carrier family 52, riboflavin transporter, member 1 (Porcine endogenous retrovirus A receptor 2) (PERV-A receptor 2) (huPAR-2) (Protein GPR172B) (Riboflavin transporter 1) (hRFT1)",SLC52A1 GPR172B PAR2 RFT1,448
+Pantetheinase (EC 3.5.1.92) (Pantetheine hydrolase) (Tiff66) (Vascular non-inflammatory molecule 1) (Vanin-1),VNN1,513
+Pyridoxine-5'-phosphate oxidase (EC 1.4.3.5) (Pyridoxamine-phosphate oxidase),PNPO,261
+"Pyruvate carboxylase, mitochondrial (EC 6.4.1.1) (Pyruvic carboxylase) (PCB)",PC,1178
+Vascular non-inflammatory molecule 2 (Vanin-2) (EC 3.5.1.92) (Glycosylphosphatidyl inositol-anchored protein GPI-80) (Protein FOAP-4),VNN2,520
+Riboflavin kinase (EC 2.7.1.26) (ATP:riboflavin 5'-phosphotransferase) (Flavokinase),RFK,155
+"Propionyl-CoA carboxylase alpha chain, mitochondrial (PCCase subunit alpha) (EC 6.4.1.3) (Propanoyl-CoA:carbon dioxide ligase subunit alpha)",PCCA,728
+Pyridoxal phosphate homeostasis protein (PLP homeostasis protein) (Proline synthase co-transcribed bacterial homolog protein),PROSC,235
+"Propionyl-CoA carboxylase alpha chain, mitochondrial (Fragment)",PCCA,615
+Methylcrotonoyl-CoA carboxylase 1 isoform 1 (Fragment),MCCC1,725
+Intrinsic factor-vitamin B12 receptor (Fragment),CUBN,116
+Selenocysteine lyase,SCLY,453
+Acetyl-CoA carboxylase (EC 6.4.1.2),,2339
+"cDNA, FLJ96567, highly similar to Homo sapiens propionyl Coenzyme A carboxylase, alpha polypeptide(PCCA), mRNA",,703
+TRA@ protein,TRA@,260
+Pyruvate carboxylase (EC 6.4.1.1),PC hCG_20121,1178
+Methionine synthase (EC 2.1.1.13) (5-methyltetrahydrofolate--homocysteine methyltransferase),MTR,1265
+Methionine synthase (EC 2.1.1.13) (5-methyltetrahydrofolate--homocysteine methyltransferase),,1118
+Pyridoxal phosphate homeostasis protein (PLP homeostasis protein) (Proline synthase co-transcribed bacterial homolog protein),PROSC,275
+Delta-aminolevulinic acid dehydratase (EC 4.2.1.24),,330
+"Pyridoxal (Pyridoxine, vitamin B6) phosphatase, isoform CRA_a (Testicular secretory protein Li 36)",PDXP hCG_41847,296
+Thiamine transporter 2 (ThTr-2) (ThTr2) (Solute carrier family 19 member 3),SLC19A3,496
+Pyridoxal phosphate homeostasis protein (PLP homeostasis protein) (Proline synthase co-transcribed bacterial homolog protein) (Pyridoxal phosphate-binding protein),PLPBP PROSC,275
+Sodium-dependent multivitamin transporter (Na(+)-dependent multivitamin transporter) (Solute carrier family 5 member 6),SLC5A6 SMVT,635
+Thiamine transporter 1 (ThTr-1) (ThTr1) (Solute carrier family 19 member 2) (Thiamine carrier 1) (TC1),SLC19A2 THT1 TRMA,497
+Phosphopantothenate--cysteine ligase (EC 6.3.2.51) (Phosphopantothenoylcysteine synthetase) (PPC synthetase),PPCS COAB,311
+E3 ubiquitin-protein ligase Mdm2 (EC 2.3.2.27) (Double minute 2 protein) (Hdm2) (Oncoprotein Mdm2) (RING-type E3 ubiquitin transferase Mdm2) (p53-binding protein Mdm2),MDM2,491
+Thiamine-triphosphatase (ThTPase) (EC 3.6.1.28),THTPA,230
+Thiamin pyrophosphokinase 1 (hTPK1) (EC 2.7.6.2) (Placental protein 20) (PP20) (Thiamine pyrophosphokinase 1),TPK1,243
+Translocator protein (Mitochondrial benzodiazepine receptor) (PKBS) (Peripheral-type benzodiazepine receptor) (PBR),TSPO BZRP MBR,169
+PDZ domain-containing protein 11 (ATPase-interacting PDZ protein) (Plasma membrane calcium ATPase-interacting single-PDZ protein) (PMCA-interacting single-PDZ protein),PDZD11 AIPP1 PDZK11 PISP HSPC227 UNQ6486/PRO21335,140
+GPI ethanolamine phosphate transferase 3 (EC 2.-.-.-) (Phosphatidylinositol-glycan biosynthesis class O protein) (PIG-O),PIGO UNQ632/PRO1249,1089
+Delta-aminolevulinic acid dehydratase (ALADH) (EC 4.2.1.24) (Porphobilinogen synthase),ALAD,330
+Chymotrypsinogen B (EC 3.4.21.1) [Cleaved into: Chymotrypsin B chain A; Chymotrypsin B chain B; Chymotrypsin B chain C],CTRB1 CTRB,263
+"Glutaredoxin-related protein 5, mitochondrial (Monothiol glutaredoxin-5)",GLRX5 C14orf87,157
+Tartrate-resistant acid phosphatase type 5 (TR-AP) (EC 3.1.3.2) (Tartrate-resistant acid ATPase) (TrATPase) (Type 5 acid phosphatase),ACP5,325
+Multidrug resistance-associated protein 1 (EC 7.6.2.2) (ATP-binding cassette sub-family C member 1) (Glutathione-S-conjugate-translocating ATPase ABCC1) (EC 7.6.2.3) (Leukotriene C(4) transporter) (LTC4 transporter),ABCC1 MRP MRP1,1531
+Kynureninase (EC 3.7.1.3) (L-kynurenine hydrolase),KYNU,465
+Methylenetetrahydrofolate reductase (EC 1.5.1.20),MTHFR,656
+"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial (MCCase subunit alpha) (EC 6.4.1.4) (3-methylcrotonyl-CoA carboxylase 1) (3-methylcrotonyl-CoA carboxylase biotin-containing subunit) (3-methylcrotonyl-CoA:carbon dioxide ligase subunit alpha)",MCCC1 MCCA,725
+"Methylglutaconyl-CoA hydratase, mitochondrial (EC 4.2.1.18) (AU-specific RNA-binding enoyl-CoA hydratase) (AU-binding protein/enoyl-CoA hydratase) (Itaconyl-CoA hydratase) (EC 4.2.1.56)",AUH,339
+Aldehyde oxidase (EC 1.2.3.1) (Aldehyde oxidase 1) (Azaheterocycle hydroxylase) (EC 1.17.3.-),AOX1 AO,1338
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 (E-NPP 3) (NPP3) (Phosphodiesterase I beta) (PD-Ibeta) (Phosphodiesterase I/nucleotide pyrophosphatase 3) (CD antigen CD203c) [Includes: Alkaline phosphodiesterase I (EC 3.1.4.1); Nucleotide pyrophosphatase (NPPase) (EC 3.6.1.9) (Nucleotide diphosphatase)],ENPP3 PDNP3,875
+Cobalamin binding intrinsic factor (Gastric intrinsic factor) (Intrinsic factor) (IF) (INF),CBLIF GIF IFMH,417
+Uroporphyrinogen-III synthase (UROIIIS) (UROS) (EC 4.2.1.75) (Hydroxymethylbilane hydrolyase [cyclizing]) (Uroporphyrinogen-III cosynthase),UROS,265
+FAD synthase (EC 2.7.7.2) (FAD pyrophosphorylase) (FMN adenylyltransferase) (Flavin adenine dinucleotide synthase) [Includes: Molybdenum cofactor biosynthesis protein-like region; FAD synthase region],FLAD1 PP591,587
+Acetyl-CoA carboxylase 2 (EC 6.4.1.2) (ACC-beta),ACACB ACC2 ACCB,2458
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 2 (E-NPP 2) (EC 3.1.4.39) (Autotaxin) (Extracellular lysophospholipase D) (LysoPLD),ENPP2 ATX PDNP2,863
+Acetyl-CoA carboxylase 1 (ACC1) (EC 6.4.1.2) (Acetyl-Coenzyme A carboxylase alpha) (ACC-alpha),ACACA ACAC ACC1 ACCA,2346
+Putative peripheral benzodiazepine receptor-related protein,TSPO PBRS,102
+Mitochondrial thiamine pyrophosphate carrier (Mitochondrial uncoupling protein 1) (Solute carrier family 25 member 19),SLC25A19 DNC MUP1,320
+"Ectonucleotide pyrophosphatase/phosphodiesterase family member 1 (E-NPP 1) (Membrane component chromosome 6 surface marker 1) (Phosphodiesterase I/nucleotide pyrophosphatase 1) (Plasma-cell membrane glycoprotein PC-1) [Cleaved into: Ectonucleotide pyrophosphatase/phosphodiesterase family member 1, secreted form] [Includes: Alkaline phosphodiesterase I (EC 3.1.4.1); Nucleotide pyrophosphatase (NPPase) (EC 3.6.1.9) (Nucleotide diphosphatase)]",ENPP1 M6S1 NPPS PC1 PDNP1,925
+Fatty acid synthase (EC 2.3.1.85) [Includes: [Acyl-carrier-protein] S-acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] S-malonyltransferase (EC 2.3.1.39); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41); 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100); 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase (EC 1.3.1.39); Oleoyl-[acyl-carrier-protein] hydrolase (EC 3.1.2.14)],FASN FAS,2511
+Chymotrypsinogen B2 (EC 3.4.21.1) [Cleaved into: Chymotrypsin B2 chain A; Chymotrypsin B2 chain B; Chymotrypsin B2 chain C],CTRB2,263
+Choline transporter-like protein 4 (Solute carrier family 44 member 4) (Thiamine pyrophosphate transporter 1) (hTPPT1),SLC44A4 C6orf29 CTL4 NG22 TPPT1 UNQ441/PRO874,710
+L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase (EC 2.7.8.7) (4'-phosphopantetheinyl transferase) (Alpha-aminoadipic semialdehyde dehydrogenase-phosphopantetheinyl transferase) (AASD-PPT) (LYS5 ortholog),AASDHPPT CGI-80 HAH-P HSPC223 x0005,309
+Cystathionine beta-synthase (EC 4.2.1.22) (Beta-thionase) (Serine sulfhydrase),CBS,551
+Chymotrypsin-C (EC 3.4.21.2) (Caldecrin),CTRC CLCR,268
+Vascular non-inflammatory molecule 3 (Vanin-3) (EC 3.5.1.92),VNN3,501
+Trypsin-3 (EC 3.4.21.4) (Brain trypsinogen) (Mesotrypsin) (Mesotrypsinogen) (Serine protease 3) (Serine protease 4) (Trypsin III) (Trypsin IV),PRSS3 PRSS4 TRY3 TRY4,304
+Transcobalamin-1 (TC-1) (Haptocorrin) (HC) (Protein R) (Transcobalamin I) (TC I) (TCI),TCN1 TC1,433
+Trypsin-1 (EC 3.4.21.4) (Beta-trypsin) (Cationic trypsinogen) (Serine protease 1) (Trypsin I) [Cleaved into: Alpha-trypsin chain 1; Alpha-trypsin chain 2],PRSS1 TRP1 TRY1 TRYP1,247
+"HCG30204, isoform CRA_a",hCG_30204,2268
+Pyridoxal phosphate homeostasis protein (PLP homeostasis protein) (Proline synthase co-transcribed bacterial homolog protein),PROSC hCG_1993547,310
+Intrinsic factor-vitamin B12 receptor (Fragment),CUBN,3494
+Methionine synthase (Fragment),MTR,819
+Mutant adenosylcobalamin (Fragment),MMAA,50
+Uncharacterized protein DKFZp686A22123 (Fragment),DKFZp686A22123,819
+,,
+Solute carrier family 23 member 1 (Na(+)/L-ascorbic acid transporter 1) (Sodium-dependent vitamin C transporter 1) (hSVCT1) (Yolk sac permease-like molecule 3),SLC23A1 SVCT1 YSPL3,598
+Solute carrier family 23 member 2 (Na(+)/L-ascorbic acid transporter 2) (Nucleobase transporter-like 1 protein) (Sodium-dependent vitamin C transporter 2) (hSVCT2) (Yolk sac permease-like molecule 2),SLC23A2 KIAA0238 NBTL1 SLC23A1 SVCT2 YSPL2,650
+Solute carrier family 23 member 3 (HPC E2-binding protein 3) (Na(+)/L-ascorbic acid transporter 3) (Sodium-dependent vitamin C transporter 3),SLC23A3 E2BP3 SVCT3,610
+Regucalcin (RC) (Gluconolactonase) (GNL) (EC 3.1.1.17) (Senescence marker protein 30) (SMP-30),RGN SMP30,299
+Glypican-1 [Cleaved into: Secreted glypican-1],GPC1,558
+Glutathione S-transferase omega-2 (GSTO-2) (EC 2.5.1.18) (Glutathione S-transferase omega 2-2) (GSTO 2-2) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1) (Monomethylarsonic acid reductase) (MMA(V) reductase) (EC 1.20.4.2),GSTO2,243
+"Prolyl 4-hydroxylase subunit alpha-2 (4-PH alpha-2) (EC 1.14.11.2) (Procollagen-proline,2-oxoglutarate-4-dioxygenase subunit alpha-2)",P4HA2 UNQ290/PRO330,535
+Prolyl 3-hydroxylase 1 (EC 1.14.11.7) (Growth suppressor 1) (Leucine- and proline-enriched proteoglycan 1) (Leprecan-1),P3H1 GROS1 LEPRE1 PSEC0109,736
+Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3 (EC 1.14.11.54) (Alkylated DNA repair protein alkB homolog 3) (hABH3) (DEPC-1) (Prostate cancer antigen 1),ALKBH3 ABH3 DEPC1,286
+"Phytanoyl-CoA dioxygenase, peroxisomal (EC 1.14.11.18) (Phytanic acid oxidase) (Phytanoyl-CoA alpha-hydroxylase) (PhyH)",PHYH PAHX,338
+"Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3 [Includes: Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 (EC 1.14.11.4) (Lysyl hydroxylase 3) (LH3); Procollagen glycosyltransferase (EC 2.4.1.50) (EC 2.4.1.66) (Galactosylhydroxylysine-glucosyltransferase) (Procollagen galactosyltransferase) (Procollagen glucosyltransferase)]",PLOD3,738
+Prolyl 3-hydroxylase 3 (EC 1.14.11.7) (Leprecan-like protein 2) (Protein B),P3H3 LEPREL2,736
+"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 (EC 1.14.11.4) (Lysyl hydroxylase 1) (LH1)",PLOD1 LLH PLOD,727
+"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 (EC 1.14.11.4) (Lysyl hydroxylase 2) (LH2)",PLOD2,737
+Prolyl 3-hydroxylase OGFOD1 (EC 1.14.11.-) (2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1) (Termination and polyadenylation 1 homolog) (uS12 prolyl 3-hydroxylase),OGFOD1 KIAA1612 TPA1,542
+"Prolyl 4-hydroxylase subunit alpha-3 (4-PH alpha-3) (EC 1.14.11.2) (Procollagen-proline,2-oxoglutarate-4-dioxygenase subunit alpha-3)",P4HA3 UNQ711/PRO1374,544
+"Prolyl 4-hydroxylase subunit alpha-1 (4-PH alpha-1) (EC 1.14.11.2) (Procollagen-proline,2-oxoglutarate-4-dioxygenase subunit alpha-1)",P4HA1 P4HA,534
+Prolyl 3-hydroxylase 2 (EC 1.14.11.7) (Leprecan-like protein 1) (Myxoid liposarcoma-associated protein 4),P3H2 LEPREL1 MLAT4,708
+Transmembrane prolyl 4-hydroxylase (P4H-TM) (EC 1.14.11.29) (Hypoxia-inducible factor prolyl hydroxylase 4) (HIF-PH4) (HIF-prolyl hydroxylase 4) (HPH-4),P4HTM PH4,502
+NADH-cytochrome b5 reductase 3 (B5R) (Cytochrome b5 reductase) (EC 1.6.2.2) (Diaphorase-1) [Cleaved into: NADH-cytochrome b5 reductase 3 membrane-bound form; NADH-cytochrome b5 reductase 3 soluble form],CYB5R3 DIA1,301
+"Solute carrier family 2, facilitated glucose transporter member 3 (Glucose transporter type 3, brain) (GLUT-3)",SLC2A3 GLUT3,496
+Egl nine homolog 1 (EC 1.14.11.29) (Hypoxia-inducible factor prolyl hydroxylase 2) (HIF-PH2) (HIF-prolyl hydroxylase 2) (HPH-2) (Prolyl hydroxylase domain-containing protein 2) (PHD2) (SM-20),EGLN1 C1orf12 PNAS-118 PNAS-137,426
+"Solute carrier family 2, facilitated glucose transporter member 1 (Glucose transporter type 1, erythrocyte/brain) (GLUT-1) (HepG2 glucose transporter)",SLC2A1 GLUT1,492
+Glutathione S-transferase omega-1 (GSTO-1) (EC 2.5.1.18) (Glutathione S-transferase omega 1-1) (GSTO 1-1) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1) (Monomethylarsonic acid reductase) (MMA(V) reductase) (EC 1.20.4.2) (S-(Phenacyl)glutathione reductase) (SPG-R),GSTO1 GSTTLP28,241
+Prolyl hydroxylase EGLN3 (EC 1.14.11.-) (Egl nine homolog 3) (EC 1.14.11.29) (HPH-1) (Hypoxia-inducible factor prolyl hydroxylase 3) (HIF-PH3) (HIF-prolyl hydroxylase 3) (HPH-3) (Prolyl hydroxylase domain-containing protein 3) (PHD3),EGLN3,239
+Cytochrome b5 (Microsomal cytochrome b5 type A) (MCB5),CYB5A CYB5,134
+Sodium-dependent vitamin C transporter 2 variant II (Fragment),SLC23A2,38
+2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2 (EC 1.14.11.-),OGFOD2,350
+2-oxoglutarate and iron-dependent oxygenase domain-containing protein 3 (EC 1.14.11.-),OGFOD3 C17orf101,319
+Peptidyl-glycine alpha-amidating monooxygenase (PAM) [Includes: Peptidylglycine alpha-hydroxylating monooxygenase (PHM) (EC 1.14.17.3); Peptidyl-alpha-hydroxyglycine alpha-amidating lyase (EC 4.3.2.5) (Peptidylamidoglycolate lyase) (PAL)],PAM,973
+Prolyl hydroxylase EGLN2 (EC 1.14.11.-) (Egl nine homolog 2) (EC 1.14.11.29) (Estrogen-induced tag 6) (EIT-6) (HPH-3) (Hypoxia-inducible factor prolyl hydroxylase 1) (HIF-PH1) (HIF-prolyl hydroxylase 1) (HPH-1) (Prolyl hydroxylase domain-containing protein 1) (PHD1),EGLN2 EIT6,407
+Dopamine beta-hydroxylase (EC 1.14.17.1) (Dopamine beta-monooxygenase) [Cleaved into: Soluble dopamine beta-hydroxylase],DBH,617
+,,
+Vitamin D-binding protein (DBP) (VDB) (Gc protein-derived macrophage activating factor) (Gc-MAF) (GcMAF) (Gc-globulin) (Group-specific component) (Gc) (Vitamin D-binding protein-macrophage activating factor) (DBP-maf),GC,474
+"Vitamin D3 receptor (VDR) (1,25-dihydroxyvitamin D3 receptor) (Nuclear receptor subfamily 1 group I member 1)",VDR NR1I1,427
+Vitamin D 25-hydroxylase (EC 1.14.14.24) (Cytochrome P450 2R1),CYP2R1,501
+"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial (24-OHase) (Vitamin D(3) 24-hydroxylase) (EC 1.14.15.16) (Cytochrome P450 24A1) (Cytochrome P450-CC24)",CYP24A1 CYP24,514
+"Sterol 26-hydroxylase, mitochondrial (EC 1.14.15.15) (5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 26-hydroxylase) (Cytochrome P-450C27/25) (Cytochrome P450 27) (Sterol 27-hydroxylase) (Vitamin D(3) 25-hydroxylase)",CYP27A1 CYP27,531
+Mediator of RNA polymerase II transcription subunit 1 (Activator-recruited cofactor 205 kDa component) (ARC205) (Mediator complex subunit 1) (Peroxisome proliferator-activated receptor-binding protein) (PBP) (PPAR-binding protein) (Thyroid hormone receptor-associated protein complex 220 kDa component) (Trap220) (Thyroid receptor-interacting protein 2) (TR-interacting protein 2) (TRIP-2) (Vitamin D receptor-interacting protein complex component DRIP205) (p53 regulatory protein RB18A),MED1 ARC205 CRSP1 CRSP200 DRIP205 DRIP230 PBP PPARBP PPARGBP RB18A TRAP220 TRIP2,1581
+Phosphate-regulating neutral endopeptidase PHEX (EC 3.4.24.-) (Metalloendopeptidase homolog PEX) (Vitamin D-resistant hypophosphatemic rickets protein) (X-linked hypophosphatemia protein) (HYP),PHEX PEX,749
+Mediator of RNA polymerase II transcription subunit 24 (Activator-recruited cofactor 100 kDa component) (ARC100) (Cofactor required for Sp1 transcriptional activation subunit 4) (CRSP complex subunit 4) (Mediator complex subunit 24) (Thyroid hormone receptor-associated protein 4) (Thyroid hormone receptor-associated protein complex 100 kDa component) (Trap100) (hTRAP100) (Vitamin D3 receptor-interacting protein complex 100 kDa component) (DRIP100),MED24 ARC100 CRSP4 DRIP100 KIAA0130 THRAP4 TRAP100,989
+"Calbindin (Calbindin D28) (D-28K) (Vitamin D-dependent calcium-binding protein, avian-type)",CALB1 CAB27,261
+Mediator of RNA polymerase II transcription subunit 13 (Activator-recruited cofactor 250 kDa component) (ARC250) (Mediator complex subunit 13) (Thyroid hormone receptor-associated protein 1) (Thyroid hormone receptor-associated protein complex 240 kDa component) (Trap240) (Vitamin D3 receptor-interacting protein complex component DRIP250) (DRIP250),MED13 ARC250 KIAA0593 THRAP1 TRAP240,2174
+Mediator of RNA polymerase II transcription subunit 14 (Activator-recruited cofactor 150 kDa component) (ARC150) (Cofactor required for Sp1 transcriptional activation subunit 2) (CRSP complex subunit 2) (Mediator complex subunit 14) (RGR1 homolog) (hRGR1) (Thyroid hormone receptor-associated protein complex 170 kDa component) (Trap170) (Transcriptional coactivator CRSP150) (Vitamin D3 receptor-interacting protein complex 150 kDa component) (DRIP150),MED14 ARC150 CRSP2 CXorf4 DRIP150 EXLM1 RGR1 TRAP170,1454
+Mediator of RNA polymerase II transcription subunit 16 (Mediator complex subunit 16) (Thyroid hormone receptor-associated protein 5) (Thyroid hormone receptor-associated protein complex 95 kDa component) (Trap95) (Vitamin D3 receptor-interacting protein complex 92 kDa component) (DRIP92),MED16 DRIP92 THRAP5,877
+Mediator of RNA polymerase II transcription subunit 4 (Activator-recruited cofactor 36 kDa component) (ARC36) (Mediator complex subunit 4) (TRAP/SMCC/PC2 subunit p36 subunit) (Vitamin D3 receptor-interacting protein complex 36 kDa component) (DRIP36),MED4 ARC36 DRIP36 VDRIP HSPC126,270
+Mediator of RNA polymerase II transcription subunit 17 (Activator-recruited cofactor 77 kDa component) (ARC77) (Cofactor required for Sp1 transcriptional activation subunit 6) (CRSP complex subunit 6) (Mediator complex subunit 17) (Thyroid hormone receptor-associated protein complex 80 kDa component) (Trap80) (Transcriptional coactivator CRSP77) (Vitamin D3 receptor-interacting protein complex 80 kDa component) (DRIP80),MED17 ARC77 CRSP6 DRIP77 DRIP80 TRAP80,651
+Ubiquitin-conjugating enzyme E2 variant 2 (DDVit 1) (Enterocyte differentiation-associated factor 1) (EDAF-1) (Enterocyte differentiation-promoting factor 1) (EDPF-1) (MMS2 homolog) (Vitamin D3-inducible protein),UBE2V2 MMS2 UEV2,145
+Mediator of RNA polymerase II transcription subunit 23 (Activator-recruited cofactor 130 kDa component) (ARC130) (Cofactor required for Sp1 transcriptional activation subunit 3) (CRSP complex subunit 3) (Mediator complex subunit 23) (Protein sur-2 homolog) (hSur-2) (Transcriptional coactivator CRSP130) (Vitamin D3 receptor-interacting protein complex 130 kDa component) (DRIP130),MED23 ARC130 CRSP3 DRIP130 KIAA1216 SUR2,1368
+Thioredoxin-interacting protein (Thioredoxin-binding protein 2) (Vitamin D3 up-regulated protein 1),TXNIP VDUP1,391
+"Protein S100-G (Calbindin-D9k) (S100 calcium-binding protein G) (Vitamin D-dependent calcium-binding protein, intestinal) (CABP)",S100G CABP9K CALB3 S100D,79
+"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial (EC 1.14.15.18) (25-OHD-1 alpha-hydroxylase) (25-hydroxyvitamin D(3) 1-alpha-hydroxylase) (VD3 1A hydroxylase) (Calcidiol 1-monooxygenase) (Cytochrome P450 subfamily XXVIIB polypeptide 1) (Cytochrome P450C1 alpha) (Cytochrome P450VD1-alpha) (Cytochrome p450 27B1)",CYP27B1 CYP1ALPHA CYP27B,508
+SNW domain-containing protein 1 (Nuclear protein SkiP) (Nuclear receptor coactivator NCoA-62) (Ski-interacting protein),SNW1 SKIIP SKIP,536
+Fibroblast growth factor 23 (FGF-23) (Phosphatonin) (Tumor-derived hypophosphatemia-inducing factor) [Cleaved into: Fibroblast growth factor 23 N-terminal peptide; Fibroblast growth factor 23 C-terminal peptide],FGF23 HYPF UNQ3027/PRO9828,251
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 (60 kDa BRG-1/Brm-associated factor subunit A) (BRG1-associated factor 60A) (BAF60A) (SWI/SNF complex 60 kDa subunit),SMARCD1 BAF60A,515
+Retinoic acid receptor RXR-alpha (Nuclear receptor subfamily 2 group B member 1) (Retinoid X receptor alpha),RXRA NR2B1,462
+Low-density lipoprotein receptor-related protein 2 (LRP-2) (Glycoprotein 330) (gp330) (Megalin),LRP2,4655
+"Cytochrome P450 3A4 (EC 1.14.14.1) (1,4-cineole 2-exo-monooxygenase) (1,8-cineole 2-exo-monooxygenase) (EC 1.14.14.56) (Albendazole monooxygenase (sulfoxide-forming)) (EC 1.14.14.73) (Albendazole sulfoxidase) (CYPIIIA3) (CYPIIIA4) (Cholesterol 25-hydroxylase) (Cytochrome P450 3A3) (Cytochrome P450 HLp) (Cytochrome P450 NF-25) (Cytochrome P450-PCN1) (Nifedipine oxidase) (Quinine 3-monooxygenase) (EC 1.14.14.55)",CYP3A4 CYP3A3,503
+General transcription and DNA repair factor IIH helicase subunit XPD (TFIIH subunit XPD) (EC 3.6.4.12) (Basic transcription factor 2 80 kDa subunit) (BTF2 p80) (CXPD) (DNA excision repair protein ERCC-2) (DNA repair protein complementing XP-D cells) (TFIIH basal transcription factor complex 80 kDa subunit) (TFIIH 80 kDa subunit) (TFIIH p80) (Xeroderma pigmentosum group D-complementing protein),ERCC2 XPD XPDC,760
+CD4,CD4,458
+"Vitamin D (1,25-dihydroxyvitamin D3) receptor, isoform CRA_c (Vitamin D nuclear receptor variant 1)",NR1i1 VDR hCG_27705,427
+Vitamin D receptor (Fragment),VDR,29
+"Proenkephalin, isoform CRA_a",PENK hCG_40756,267
+Vitamin D binding protein (Fragment),Gc,34
+Vitamin D binding protein (Fragment),Gc,32
+Vitamin D3 receptor,VDR,49
+Vitamin D receptor (Fragment),,48
+"Farnesoid X receptor (Nuclear receptor subfamily 1, group H, member 4, isoform CRA_a)",NR1H4 hCG_20893,472
+"Tyrosinase (EC 1.14.18.1) (Tyrosinase (Oculocutaneous albinism IA), isoform CRA_a)",TYR hCG_19690,529
+Vitamin D receptor,VDR,424
+Vitamin D-binding protein,GC,476
+Vitamin D receptor (Fragment),VDR,85
+Vitamin D binding protein (Fragment),GC,34
+Vitamin D binding protein (Fragment),Gc,39
+Epididymis secretory protein Li 51,HEL-S-51,474
+Vitamin D receptor (Fragment),VDR,29
+Vitamin D-dependent calcium binding protein calbindin (Fragment),CALB1,77
+Phosphplipase C-gamma 1 (Fragment),,12
+"cDNA FLJ51539, highly similar to Vitamin D3 receptor",,395
+Transforming growth factor beta,TGFB1,390
+Vitamin D3 receptor (Fragment),VDR,250
+"Fructose 1,6-bisphosphatase (Fragment)",,57
+Vitamin D-binding protein,GC,348
+Vitamin D receptor (Fragment),VDR,85
+Vitamin D receptor (Fragment),VDR,85
+"STC2 protein (Stanniocalcin 2, isoform CRA_a) (cDNA FLJ14757 fis, clone NT2RP3003242, highly similar to Stanniocalcin-2) (cDNA FLJ38572 fis, clone HCHON2006786, highly similar to Stanniocalcin-2) (cDNA PSEC0097 fis, clone NT2RP2002139, highly similar to Stanniocalcin-2) (Fragment)",STC2 hCG_40281,302
+Vitamin D binding protein protein (Fragment),vitamin D binding protein,17
+"Vitamin D (1,25-dihydroxyvitamin D3) receptor",NR1I1,427
+Vitamin D3 receptor,VDR,494
+"Pleiotrophin (Heparin binding growth factor 8, neurite growth-promoting factor 1), isoform CRA_a",PTN hCG_18946,168
+Vitamin D 25-hydroxylase (Fragment),CYP2R1,32
+"Bone morphogenetic protein 7 (Osteogenic protein 1), isoform CRA_b (cDNA FLJ78019, highly similar to Homo sapiens bone morphogenetic protein 7 (osteogenic protein 1), mRNA) (cDNA, FLJ92758, Homo sapiens bone morphogenetic protein 7 (osteogenic protein 1)(BMP7), mRNA)",BMP7 hCG_40100,431
+Antithrombin-III (Fragment),SERPINC1,13
+Centromere protein R (CENP-R) (Beta-3-endonexin) (Integrin beta-3-binding protein) (Nuclear receptor-interacting factor 3),ITGB3BP CENPR NRIF3,177
+Small ubiquitin-related modifier 2 (SUMO-2) (HSMT3) (SMT3 homolog 2) (SUMO-3) (Sentrin-2) (Ubiquitin-like protein SMT3B) (Smt3B),SUMO2 SMT3B SMT3H2,95
+UDP-glucuronosyltransferase 1A4 (UGT1A4) (EC 2.4.1.17) (Bilirubin-specific UDPGT isozyme 2) (hUG-BR2) (UDP-glucuronosyltransferase 1-4) (UDPGT 1-4) (UGT1*4) (UGT1-04) (UGT1.4) (UDP-glucuronosyltransferase 1-D) (UGT-1D) (UGT1D),UGT1A4 GNT1 UGT1,534
+Transcription initiation factor TFIID subunit 7 (RNA polymerase II TBP-associated factor subunit F) (Transcription initiation factor TFIID 55 kDa subunit) (TAF(II)55) (TAFII-55) (TAFII55),TAF7 TAF2F TAFII55,349
+Tenascin (TN) (Cytotactin) (GMEM) (GP 150-225) (Glioma-associated-extracellular matrix antigen) (Hexabrachion) (JI) (Myotendinous antigen) (Neuronectin) (Tenascin-C) (TN-C),TNC HXB,2201
+Ganglioside-induced differentiation-associated protein 1 (GDAP1),GDAP1,358
+Zinc finger protein Gfi-1 (Growth factor independent protein 1) (Zinc finger protein 163),GFI1 ZNF163,422
+Serine/threonine-protein kinase Sgk1 (EC 2.7.11.1) (Serum/glucocorticoid-regulated kinase 1),SGK1 SGK,431
+Nuclear receptor coactivator 3 (NCoA-3) (EC 2.3.1.48) (ACTR) (Amplified in breast cancer 1 protein) (AIB-1) (CBP-interacting protein) (pCIP) (Class E basic helix-loop-helix protein 42) (bHLHe42) (Receptor-associated coactivator 3) (RAC-3) (Steroid receptor coactivator protein 3) (SRC-3) (Thyroid hormone receptor activator molecule 1) (TRAM-1),NCOA3 AIB1 BHLHE42 RAC3 TRAM1,1424
+Secreted frizzled-related protein 1 (FRP-1) (sFRP-1) (Secreted apoptosis-related protein 2) (SARP-2),SFRP1 FRP FRP1 SARP2,314
+Serine/threonine-protein kinase pim-1 (EC 2.7.11.1),PIM1,313
+E3 SUMO-protein ligase PIAS4 (EC 2.3.2.27) (PIASy) (Protein inhibitor of activated STAT protein 4) (Protein inhibitor of activated STAT protein gamma) (PIAS-gamma) (RING-type E3 ubiquitin transferase PIAS4),PIAS4 PIASG,510
+Progesterone receptor (PR) (Nuclear receptor subfamily 3 group C member 3),PGR NR3C3,933
+Nuclear receptor coactivator 1 (NCoA-1) (EC 2.3.1.48) (Class E basic helix-loop-helix protein 74) (bHLHe74) (Protein Hin-2) (RIP160) (Renal carcinoma antigen NY-REN-52) (Steroid receptor coactivator 1) (SRC-1),NCOA1 BHLHE74 SRC1,1441
+Nuclear receptor corepressor 1 (N-CoR) (N-CoR1),NCOR1 KIAA1047,2440
+Pleiotrophin (PTN) (Heparin-binding brain mitogen) (HBBM) (Heparin-binding growth factor 8) (HBGF-8) (Heparin-binding growth-associated molecule) (HB-GAM) (Heparin-binding neurite outgrowth-promoting factor) (HBNF) (Heparin-binding neurite outgrowth-promoting factor 1) (HBNF-1) (Osteoblast-specific factor 1) (OSF-1),PTN HBNF1 NEGF1,168
+"Alkaline phosphatase, tissue-nonspecific isozyme (AP-TNAP) (TNSALP) (EC 3.1.3.1) (Alkaline phosphatase liver/bone/kidney isozyme)",ALPL,524
+"Inositol polyphosphate 5-phosphatase OCRL (EC 3.1.3.36) (EC 3.1.3.56) (Inositol polyphosphate 5-phosphatase OCRL-1) (OCRL-1) (Lowe oculocerebrorenal syndrome protein) (Phosphatidylinositol 3,4,5-triphosphate 5-phosphatase) (EC 3.1.3.86)",OCRL OCRL1,901
+Proenkephalin-A [Cleaved into: Synenkephalin; Met-enkephalin (Opioid growth factor) (OGF); PENK(114-133); PENK(143-183); Met-enkephalin-Arg-Gly-Leu; Leu-enkephalin; PENK(237-258); Met-enkephalin-Arg-Phe],PENK,267
+Transcription intermediary factor 1-alpha (TIF1-alpha) (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRIM24) (RING finger protein 82) (RING-type E3 ubiquitin transferase TIF1-alpha) (Tripartite motif-containing protein 24),TRIM24 RNF82 TIF1 TIF1A,1050
+SUMO-conjugating enzyme UBC9 (EC 2.3.2.-) (RING-type E3 SUMO transferase UBC9) (SUMO-protein ligase) (Ubiquitin carrier protein 9) (Ubiquitin carrier protein I) (Ubiquitin-conjugating enzyme E2 I) (Ubiquitin-protein ligase I) (p18),UBE2I UBC9 UBCE9,158
+Tyrosinase (EC 1.14.18.1) (LB24-AB) (Monophenol monooxygenase) (SK29-AB) (Tumor rejection antigen AB),TYR,529
+Transcription initiation factor TFIID subunit 4 (RNA polymerase II TBP-associated factor subunit C) (TBP-associated factor 4) (Transcription initiation factor TFIID 130 kDa subunit) (TAF(II)130) (TAFII-130) (TAFII130) (Transcription initiation factor TFIID 135 kDa subunit) (TAF(II)135) (TAFII-135) (TAFII135),TAF4 TAF2C TAF2C1 TAF4A TAFII130 TAFII135,1085
+Stanniocalcin-1 (STC-1),STC1 STC,247
+Osteopontin (Bone sialoprotein 1) (Nephropontin) (Secreted phosphoprotein 1) (SPP-1) (Urinary stone protein) (Uropontin),SPP1 BNSP OPN PSEC0156,314
+Nuclear receptor subfamily 2 group C member 2 (Orphan nuclear receptor TAK1) (Orphan nuclear receptor TR4) (Testicular receptor 4),NR2C2 TAK1 TR4,596
+Stanniocalcin-2 (STC-2) (Stanniocalcin-related protein) (STC-related protein) (STCRP),STC2,302
+Nuclear receptor subfamily 5 group A member 2 (Alpha-1-fetoprotein transcription factor) (B1-binding factor) (hB1F) (CYP7A promoter-binding factor) (Hepatocytic transcription factor) (Liver receptor homolog 1) (LRH-1),NR5A2 B1F CPF FTF,541
+Zinc finger protein SNAI2 (Neural crest transcription factor Slug) (Protein snail homolog 2),SNAI2 SLUG SLUGH,268
+"Legumain (EC 3.4.22.34) (Asparaginyl endopeptidase) (Protease, cysteine 1)",LGMN PRSC1,433
+Matrix-remodeling-associated protein 5 (Adhesion protein with leucine-rich repeats and immunoglobulin domains related to perlecan) (Adlican),MXRA5,2828
+Prostaglandin G/H synthase 2 (EC 1.14.99.1) (Cyclooxygenase-2) (COX-2) (PHS II) (Prostaglandin H2 synthase 2) (PGH synthase 2) (PGHS-2) (Prostaglandin-endoperoxide synthase 2),PTGS2 COX2,604
+Nuclear receptor subfamily 1 group I member 2 (Orphan nuclear receptor PAR1) (Orphan nuclear receptor PXR) (Pregnane X receptor) (Steroid and xenobiotic receptor) (SXR),NR1I2 PXR,434
+Nuclear factor NF-kappa-B p105 subunit (DNA-binding factor KBF1) (EBP-1) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1) [Cleaved into: Nuclear factor NF-kappa-B p50 subunit],NFKB1,968
+Iroquois-class homeodomain protein IRX-4 (Homeodomain protein IRXA3) (Iroquois homeobox protein 4),IRX4 IRXA3,519
+"NADPH:adrenodoxin oxidoreductase, mitochondrial (AR) (Adrenodoxin reductase) (EC 1.18.1.6) (Ferredoxin--NADP(+) reductase) (Ferredoxin reductase)",FDXR ADXR,491
+Mediator of RNA polymerase II transcription subunit 30 (Mediator complex subunit 30) (TRAP/Mediator complex component TRAP25) (Thyroid hormone receptor-associated protein 6) (Thyroid hormone receptor-associated protein complex 25 kDa component) (Trap25),MED30 THRAP6 TRAP25,178
+Fibroblast growth factor receptor 4 (FGFR-4) (EC 2.7.10.1) (CD antigen CD334),FGFR4 JTK2 TKF,802
+"Peroxisomal acyl-coenzyme A oxidase 2 (EC 1.17.99.3) (3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholestanoyl-CoA 24-hydroxylase) (3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholestanoyl-CoA oxidase) (Trihydroxycoprostanoyl-CoA oxidase) (THCA-CoA oxidase) (THCCox)",ACOX2,681
+Methylsterol monooxygenase 1 (EC 1.14.18.9) (C-4 methylsterol oxidase) (Sterol-C4-methyl oxidase),MSMO1 DESP4 ERG25 SC4MOL,293
+Fibroblast growth factor receptor 1 (FGFR-1) (EC 2.7.10.1) (Basic fibroblast growth factor receptor 1) (BFGFR) (bFGF-R-1) (Fms-like tyrosine kinase 2) (FLT-2) (N-sam) (Proto-oncogene c-Fgr) (CD antigen CD331),FGFR1 BFGFR CEK FGFBR FLG FLT2 HBGFR,822
+Mediator of RNA polymerase II transcription subunit 12 (Activator-recruited cofactor 240 kDa component) (ARC240) (CAG repeat protein 45) (Mediator complex subunit 12) (OPA-containing protein) (Thyroid hormone receptor-associated protein complex 230 kDa component) (Trap230) (Trinucleotide repeat-containing gene 11 protein),MED12 ARC240 CAGH45 HOPA KIAA0192 TNRC11 TRAP230,2177
+Klotho (EC 3.2.1.31) [Cleaved into: Klotho peptide],KL,1012
+Fibroblast growth factor receptor 3 (FGFR-3) (EC 2.7.10.1) (CD antigen CD333),FGFR3 JTK4,806
+Interferon gamma (IFN-gamma) (Immune interferon),IFNG,166
+Iroquois-class homeodomain protein IRX-5 (Homeodomain protein IRX-2A) (Homeodomain protein IRXB2) (Iroquois homeobox protein 5),IRX5 IRX2A IRXB2,483
+Afamin (Alpha-albumin) (Alpha-Alb),AFM ALB2 ALBA,599
+Interleukin-15 (IL-15),IL15,162
+KN motif and ankyrin repeat domain-containing protein 2 (Ankyrin repeat domain-containing protein 25) (Matrix-remodeling-associated protein 3) (SRC-1-interacting protein) (SIP) (SRC-interacting protein) (SRC1-interacting protein),KANK2 ANKRD25 KIAA1518 MXRA3 SIP,851
+Bone morphogenetic protein 7 (BMP-7) (Osteogenic protein 1) (OP-1) (Eptotermin alfa),BMP7 OP1,431
+Glutamine synthetase (GS) (EC 6.3.1.2) (Glutamate--ammonia ligase) (Palmitoyltransferase GLUL) (EC 2.3.1.225),GLUL GLNS,373
+Plasma membrane calcium-transporting ATPase 1 (EC 7.2.2.10) (Plasma membrane calcium ATPase isoform 1) (PMCA1) (Plasma membrane calcium pump isoform 1),ATP2B1 PMCA1,1220
+Tyrosine-protein kinase Fes/Fps (EC 2.7.10.2) (Feline sarcoma/Fujinami avian sarcoma oncogene homolog) (Proto-oncogene c-Fes) (Proto-oncogene c-Fps) (p93c-fes),FES FPS,822
+Aquaporin-3 (AQP-3) (Aquaglyceroporin-3),AQP3,292
+Transcription factor E2-alpha (Class B basic helix-loop-helix protein 21) (bHLHb21) (Immunoglobulin enhancer-binding factor E12/E47) (Immunoglobulin transcription factor 1) (Kappa-E2-binding factor) (Transcription factor 3) (TCF-3) (Transcription factor ITF-1),TCF3 BHLHB21 E2A ITF1,654
+Thyroid hormone receptor-associated protein 3 (BCLAF1 and THRAP3 family member 2) (Thyroid hormone receptor-associated protein complex 150 kDa component) (Trap150),THRAP3 BCLAF2 TRAP150,955
+Uridine phosphorylase 1 (UPase 1) (UrdPase 1) (EC 2.4.2.3),UPP1 UP,310
+"Ectonucleotide pyrophosphatase/phosphodiesterase family member 1 (E-NPP 1) (Membrane component chromosome 6 surface marker 1) (Phosphodiesterase I/nucleotide pyrophosphatase 1) (Plasma-cell membrane glycoprotein PC-1) [Cleaved into: Ectonucleotide pyrophosphatase/phosphodiesterase family member 1, secreted form] [Includes: Alkaline phosphodiesterase I (EC 3.1.4.1); Nucleotide pyrophosphatase (NPPase) (EC 3.6.1.9) (Nucleotide diphosphatase)]",ENPP1 M6S1 NPPS PC1 PDNP1,925
+Dentin matrix acidic phosphoprotein 1 (DMP-1) (Dentin matrix protein 1),DMP1,513
+"Cholesterol side-chain cleavage enzyme, mitochondrial (EC 1.14.15.6) (CYPXIA1) (Cholesterol desmolase) (Cytochrome P450 11A1) (Cytochrome P450(scc))",CYP11A1 CYP11A,521
+Cytochrome P450 1A1 (CYPIA1) (EC 1.14.14.1) (Cytochrome P450 form 6) (Cytochrome P450-C) (Cytochrome P450-P1) (Hydroperoxy icosatetraenoate dehydratase) (EC 4.2.1.152),CYP1A1,512
+Arrestin domain-containing protein 3 (TBP-2-like inducible membrane protein) (TLIMP),ARRDC3 KIAA1376,414
+C-X-C motif chemokine 10 (10 kDa interferon gamma-induced protein) (Gamma-IP10) (IP-10) (Small-inducible cytokine B10) [Cleaved into: CXCL10(1-73)],CXCL10 INP10 SCYB10,98
+24-hydroxycholesterol 7-alpha-hydroxylase (EC 1.14.14.26) (Cytochrome P450 39A1) (hCYP39A1) (Oxysterol 7-alpha-hydroxylase),CYP39A1,469
+Cubilin (460 kDa receptor) (Intestinal intrinsic factor receptor) (Intrinsic factor-cobalamin receptor) (Intrinsic factor-vitamin B12 receptor),CUBN IFCR,3623
+Coiled-coil domain-containing protein 62 (Protein TSP-NY) (Protein aaa),CCDC62,684
+Cyclin-dependent kinase 4 inhibitor D (p19-INK4d),CDKN2D,166
+T-cell surface glycoprotein CD4 (T-cell surface antigen T4/Leu-3) (CD antigen CD4),CD4,458
+CCN family member 1 (Cellular communication network factor 1) (Cysteine-rich angiogenic inducer 61) (Insulin-like growth factor-binding protein 10) (IBP-10) (IGF-binding protein 10) (IGFBP-10) (Protein CYR61) (Protein GIG1),CCN1 CYR61 GIG1 IGFBP10,381
+Cyclin-dependent kinase 2 (EC 2.7.11.22) (Cell division protein kinase 2) (p33 protein kinase),CDK2 CDKN2,298
+Bromodomain adjacent to zinc finger domain protein 1A (ATP-dependent chromatin-remodeling protein) (ATP-utilizing chromatin assembly and remodeling factor 1) (hACF1) (CHRAC subunit ACF1) (Williams syndrome transcription factor-related chromatin-remodeling factor 180) (WCRF180) (hWALp1),BAZ1A ACF1 WCRF180 HSPC317,1556
+Extracellular calcium-sensing receptor (CaR) (CaSR) (hCasR) (Parathyroid cell calcium-sensing receptor 1) (PCaR1),CASR GPRC2A PCAR1,1078
+Parathyroid hormone (PTH) (Parathormone) (Parathyrin),PTH,115
+"Nuclear receptor coactivator 6 (Activating signal cointegrator 2) (ASC-2) (Amplified in breast cancer protein 3) (Cancer-amplified transcriptional coactivator ASC-2) (Nuclear receptor coactivator RAP250) (NRC RAP250) (Nuclear receptor-activating protein, 250 kDa) (Peroxisome proliferator-activated receptor-interacting protein) (PPAR-interacting protein) (PRIP) (Thyroid hormone receptor-binding protein)",NCOA6 AIB3 KIAA0181 RAP250 TRBP,2063
+Osteocalcin (Bone Gla protein) (BGP) (Gamma-carboxyglutamic acid-containing protein),BGLAP,100
+Zinc finger protein SNAI1 (Protein snail homolog 1) (Protein sna),SNAI1 SNAH,264
+UDP-glucuronosyltransferase 1A3 (UGT1A3) (EC 2.4.1.17) (UDP-glucuronosyltransferase 1-3) (UDPGT 1-3) (UGT1*3) (UGT1-03) (UGT1.3) (UDP-glucuronosyltransferase 1-C) (UGT-1C) (UGT1C) (UDP-glucuronosyltransferase 1A isoform 3),UGT1A3 GNT1 UGT1,534
+E3 ubiquitin/ISG15 ligase TRIM25 (EC 6.3.2.n3) (Estrogen-responsive finger protein) (RING finger protein 147) (RING-type E3 ubiquitin transferase) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM25) (Tripartite motif-containing protein 25) (Ubiquitin/ISG15-conjugating enzyme TRIM25) (Zinc finger protein 147),TRIM25 EFP RNF147 ZNF147,630
+"Thioredoxin reductase 1, cytoplasmic (TR) (EC 1.8.1.9) (Gene associated with retinoic and interferon-induced mortality 12 protein) (GRIM-12) (Gene associated with retinoic and IFN-induced mortality 12 protein) (KM-102-derived reductase-like factor) (Thioredoxin reductase TR1)",TXNRD1 GRIM12 KDRF,649
+"Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]",TNF TNFA TNFSF2,233
+Protein Tob2 (Protein Tob4) (Transducer of erbB-2 2),TOB2 KIAA1663 TOB4 TROB2,344
+Transcription initiation factor TFIID subunit 11 (TFIID subunit p30-beta) (Transcription initiation factor TFIID 28 kDa subunit) (TAF(II)28) (TAFII-28) (TAFII28),TAF11 TAF2I PRO2134,211
+Calcium-transporting ATPase (EC 7.2.2.10),ATP2B1 hCG_27605,1220
+Vitamin D3 receptor (Fragment),VDR,106
+Vitamin D 25-hydroxylase,CYP2R1,37
+Vitamin D3 receptor (Fragment),VDR,101
+Vitamin D 25-hydroxylase,CYP2R1,268
+Vitamin D receptor (Fragment),VDR,84
+Vitamin D-binding protein (Fragment),GC,145
+Vitamin D receptor (Fragment),VDR,85
+,,
+Alpha-tocopherol transfer protein (Alpha-TTP),TTPA TPP1,278
+Afamin (Alpha-albumin) (Alpha-Alb),AFM ALB2 ALBA,599
+Cytochrome P450 4F2 (EC 1.14.14.1) (20-hydroxyeicosatetraenoic acid synthase) (20-HETE synthase) (Arachidonic acid omega-hydroxylase) (CYPIVF2) (Cytochrome P450-LTB-omega) (Docosahexaenoic acid omega-hydroxylase) (EC 1.14.14.79) (Leukotriene-B(4) 20-monooxygenase 1) (Leukotriene-B(4) omega-hydroxylase 1) (EC 1.14.14.94) (Phylloquinone omega-hydroxylase CYP4F2) (EC 1.14.14.78),CYP4F2,520
+Phospholipid transfer protein (Lipid transfer protein II),PLTP,493
+SEC14-like protein 2 (Alpha-tocopherol-associated protein) (TAP) (hTAP) (Squalene transfer protein) (Supernatant protein factor) (SPF),SEC14L2 C22orf6 KIAA1186 KIAA1658,403
+Adenosine deaminase (EC 3.5.4.4) (Adenosine aminohydrolase),ADA ADA1,363
+Phospholipid-transporting ATPase ABCA1 (EC 7.6.2.1) (ATP-binding cassette sub-family A member 1) (ATP-binding cassette transporter 1) (ABC-1) (ATP-binding cassette 1) (Cholesterol efflux regulatory protein),ABCA1 ABC1 CERP,2261
+Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform (PP2A-beta) (EC 3.1.3.16),PPP2CB,309
+SEC14-like protein 4 (Tocopherol-associated protein 3),SEC14L4 TAP3,406
+Peroxisome proliferator-activated receptor gamma (PPAR-gamma) (Nuclear receptor subfamily 1 group C member 3),PPARG NR1C3,505
+Microsomal triglyceride transfer protein large subunit,MTTP MTP,894
+Protein kinase C alpha type (PKC-A) (PKC-alpha) (EC 2.7.11.13),PRKCA PKCA PRKACA,672
+ATP-binding cassette sub-family G member 1 (EC 7.6.2.-) (ATP-binding cassette transporter 8) (White protein homolog),ABCG1 ABC8 WHT1,678
+Superoxide dismutase [Cu-Zn] (EC 1.15.1.1) (Superoxide dismutase 1) (hSod1),SOD1,154
+"Serine/arginine-rich splicing factor 2 (Protein PR264) (Splicing component, 35 kDa) (Splicing factor SC35) (SC-35) (Splicing factor, arginine/serine-rich 2)",SRSF2 SFRS2,221
+NPC1-like intracellular cholesterol transporter 1 (Niemann-Pick C1-like protein 1),NPC1L1,1359
+"Scavenger receptor class B member 1 (SRB1) (CD36 and LIMPII analogous 1) (CLA-1) (CD36 antigen-like 1) (Collagen type I receptor, thrombospondin receptor-like 1) (SR-BI) (CD antigen CD36)",SCARB1 CD36L1 CLA1,552
+Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform (PP2A-alpha) (EC 3.1.3.16) (Replication protein C) (RP-C),PPP2CA,309
+Delta-aminolevulinic acid dehydratase (ALADH) (EC 4.2.1.24) (Porphobilinogen synthase),ALAD,330
+Leptin (Obese protein) (Obesity factor),LEP OB OBS,167
+Nuclear receptor subfamily 1 group I member 2 (Orphan nuclear receptor PAR1) (Orphan nuclear receptor PXR) (Pregnane X receptor) (Steroid and xenobiotic receptor) (SXR),NR1I2 PXR,434
+NAD(P)H dehydrogenase [quinone] 1 (EC 1.6.5.2) (Azoreductase) (DT-diaphorase) (DTD) (Menadione reductase) (NAD(P)H:quinone oxidoreductase 1) (Phylloquinone reductase) (Quinone reductase 1) (QR1),NQO1 DIA4 NMOR1,274
+Polyunsaturated fatty acid 5-lipoxygenase (EC 1.13.11.-) (Arachidonate 5-lipoxygenase) (5-LO) (5-lipoxygenase) (EC 1.13.11.34),ALOX5 LOG5,674
+Protein kinase C beta type (PKC-B) (PKC-beta) (EC 2.7.11.13),PRKCB PKCB PRKCB1,671
+Glutamate--cysteine ligase catalytic subunit (EC 6.3.2.2) (GCS heavy chain) (Gamma-ECS) (Gamma-glutamylcysteine synthetase),GCLC GLCL GLCLC,637
+Arginase-1 (EC 3.5.3.1) (Liver-type arginase) (Type I arginase),ARG1,322
+Leptin (Obesity factor),LEP hCG_33000 tcag7.84,167
+"Adenosine deaminase isoform 1 (Adenosine deaminase, isoform CRA_c) (Fragment)",ADA hCG_38105,363
+3-hydroxy-3-methylglutaryl coenzyme A synthase (HMG-CoA synthase) (EC 2.3.3.10),HMGCS1 hCG_36936,520
+Delta-aminolevulinic acid dehydratase (EC 4.2.1.24),,330
+"CCND1 protein (Cyclin D1 (PRAD1: parathyroid adenomatosis 1)) (Cyclin D1, isoform CRA_c) (cDNA, FLJ93625, Homo sapiens cyclin D1 (PRAD1: parathyroid adenomatosis 1) (CCND1),mRNA)",CCND1 hCG_2016647,295
+SEC14-like protein 3 (Tocopherol-associated protein 2),SEC14L3 TAP2,400
+Catalase (EC 1.11.1.6),CAT,527
+Glutathione S-transferase Mu 3 (EC 2.5.1.18) (GST class-mu 3) (GSTM3-3) (hGSTM3-3),GSTM3 GST5,225
+"Hydroxymethylglutaryl-CoA synthase, cytoplasmic (HMG-CoA synthase) (EC 2.3.3.10) (3-hydroxy-3-methylglutaryl coenzyme A synthase)",HMGCS1 HMGCS,520
+Heme oxygenase 1 (HO-1) (EC 1.14.14.18),HMOX1 HO HO1,288
+Glutathione S-transferase P (EC 2.5.1.18) (GST class-pi) (GSTP1-1),GSTP1 FAEES3 GST3,210
+Cytochrome P450 4F12 (EC 1.14.14.1) (CYPIVF12),CYP4F12 UNQ568/PRO1129,524
+Glutathione S-transferase omega-1 (GSTO-1) (EC 2.5.1.18) (Glutathione S-transferase omega 1-1) (GSTO 1-1) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1) (Monomethylarsonic acid reductase) (MMA(V) reductase) (EC 1.20.4.2) (S-(Phenacyl)glutathione reductase) (SPG-R),GSTO1 GSTTLP28,241
+Glutathione S-transferase A2 (EC 2.5.1.18) (GST HA subunit 2) (GST class-alpha member 2) (GST-gamma) (GSTA2-2) (GTH2),GSTA2 GST2,222
+Diacylglycerol kinase alpha (DAG kinase alpha) (EC 2.7.1.107) (80 kDa diacylglycerol kinase) (Diglyceride kinase alpha) (DGK-alpha),DGKA DAGK DAGK1,735
+Peptidyl-prolyl cis-trans isomerase FKBP1B (PPIase FKBP1B) (EC 5.2.1.8) (12.6 kDa FK506-binding protein) (12.6 kDa FKBP) (FKBP-12.6) (FK506-binding protein 1B) (FKBP-1B) (Immunophilin FKBP12.6) (Rotamase) (h-FKBP-12),FKBP1B FKBP12.6 FKBP1L FKBP9 OTK4,108
+Collagen alpha-1(I) chain (Alpha-1 type I collagen),COL1A1,1464
+"Cytochrome P450 3A4 (EC 1.14.14.1) (1,4-cineole 2-exo-monooxygenase) (1,8-cineole 2-exo-monooxygenase) (EC 1.14.14.56) (Albendazole monooxygenase (sulfoxide-forming)) (EC 1.14.14.73) (Albendazole sulfoxidase) (CYPIIIA3) (CYPIIIA4) (Cholesterol 25-hydroxylase) (Cytochrome P450 3A3) (Cytochrome P450 HLp) (Cytochrome P450 NF-25) (Cytochrome P450-PCN1) (Nifedipine oxidase) (Quinine 3-monooxygenase) (EC 1.14.14.55)",CYP3A4 CYP3A3,503
+G1/S-specific cyclin-D1 (B-cell lymphoma 1 protein) (BCL-1) (BCL-1 oncogene) (PRAD1 oncogene),CCND1 BCL1 PRAD1,295
+"Splicing factor, arginine/serine-rich 2, isoform CRA_a",SFRS2 hCG_27842,221
+Catalase (EC 1.11.1.6),,527
+,,
+Vitamin K-dependent protein C (EC 3.4.21.69) (Anticoagulant protein C) (Autoprothrombin IIA) (Blood coagulation factor XIV) [Cleaved into: Vitamin K-dependent protein C light chain; Vitamin K-dependent protein C heavy chain; Activation peptide],PROC,461
+"Vitamin K epoxide reductase complex subunit 1 (EC 1.17.4.4) (Vitamin K1 2,3-epoxide reductase subunit 1)",VKORC1 VKOR MSTP134 MSTP576 UNQ308/PRO351,163
+Vitamin K-dependent gamma-carboxylase (EC 4.1.1.90) (Gamma-glutamyl carboxylase) (Peptidyl-glutamate 4-carboxylase) (Vitamin K gamma glutamyl carboxylase),GGCX GC,758
+Vitamin K epoxide reductase complex subunit 1-like protein 1 (VKORC1-like protein 1) (EC 1.17.4.4),VKORC1L1,176
+Vitamin K-dependent protein Z,PROZ,400
+Vitamin K-dependent protein S,PROS1 PROS,676
+UbiA prenyltransferase domain-containing protein 1 (EC 2.5.1.-) (Transitional epithelial response protein 1),UBIAD1 TERE1,338
+Cytochrome P450 4F2 (EC 1.14.14.1) (20-hydroxyeicosatetraenoic acid synthase) (20-HETE synthase) (Arachidonic acid omega-hydroxylase) (CYPIVF2) (Cytochrome P450-LTB-omega) (Docosahexaenoic acid omega-hydroxylase) (EC 1.14.14.79) (Leukotriene-B(4) 20-monooxygenase 1) (Leukotriene-B(4) omega-hydroxylase 1) (EC 1.14.14.94) (Phylloquinone omega-hydroxylase CYP4F2) (EC 1.14.14.78),CYP4F2,520
+Periostin (PN) (Osteoblast-specific factor 2) (OSF-2),POSTN OSF2,836
+Growth arrest-specific protein 6 (GAS-6) (AXL receptor tyrosine kinase ligand),GAS6 AXLLG,678
+Cytochrome P450 4F11 (CYPIVF11) (EC 1.14.14.1) (3-hydroxy fatty acids omega-hydroxylase CYP4F11) (Docosahexaenoic acid omega-hydroxylase) (EC 1.14.14.79) (Long-chain fatty acid omega-monooxygenase) (EC 1.14.14.80) (Phylloquinone omega-hydroxylase CYP4F11) (EC 1.14.14.78),CYP4F11,524
+Transforming growth factor-beta-induced protein ig-h3 (Beta ig-h3) (Kerato-epithelin) (RGD-containing collagen-associated protein) (RGD-CAP),TGFBI BIGH3,683
+Coagulation factor VII (EC 3.4.21.21) (Proconvertin) (Serum prothrombin conversion accelerator) (SPCA) (Eptacog alfa) [Cleaved into: Factor VII light chain; Factor VII heavy chain],F7,466
+Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Plasma thromboplastin component) (PTC) [Cleaved into: Coagulation factor IXa light chain; Coagulation factor IXa heavy chain],F9,461
+Osteocalcin (Bone Gla protein) (BGP) (Gamma-carboxyglutamic acid-containing protein),BGLAP,100
+Coagulation factor X (EC 3.4.21.6) (Stuart factor) (Stuart-Prower factor) [Cleaved into: Factor X light chain; Factor X heavy chain; Activated factor Xa heavy chain],F10,488
+cAMP-dependent protein kinase catalytic subunit alpha (PKA C-alpha) (EC 2.7.11.11),PRKACA PKACA,351
+Matrix Gla protein (MGP) (Cell growth-inhibiting gene 36 protein),MGP MGLAP GIG36,103
+C4b-binding protein alpha chain (C4bp) (Proline-rich protein) (PRP),C4BPA C4BP,597
+Calumenin (Crocalbin) (IEF SSP 9302),CALU,315
+Tyrosine-protein kinase receptor UFO (EC 2.7.10.1) (AXL oncogene),AXL UFO,894
+Prothrombin (EC 3.4.21.5) (Coagulation factor II) [Cleaved into: Activation peptide fragment 1; Activation peptide fragment 2; Thrombin light chain; Thrombin heavy chain],F2,622
+Sex hormone-binding globulin (SHBG) (Sex steroid-binding protein) (SBP) (Testis-specific androgen-binding protein) (ABP) (Testosterone-estradiol-binding globulin) (TeBG) (Testosterone-estrogen-binding globulin),SHBG,402
+Ribosyldihydronicotinamide dehydrogenase [quinone] (EC 1.10.5.1) (NRH dehydrogenase [quinone] 2) (NRH:quinone oxidoreductase 2) (Quinone reductase 2) (QR2),NQO2 NMOR2,231
+NAD(P)H dehydrogenase [quinone] 1 (EC 1.6.5.2) (Azoreductase) (DT-diaphorase) (DTD) (Menadione reductase) (NAD(P)H:quinone oxidoreductase 1) (Phylloquinone reductase) (Quinone reductase 1) (QR1),NQO1 DIA4 NMOR1,274
+Cytochrome P450 2C9 (EC 1.14.14.1) ((R)-limonene 6-monooxygenase) (EC 1.14.14.53) ((S)-limonene 6-monooxygenase) (EC 1.14.14.51) ((S)-limonene 7-monooxygenase) (EC 1.14.14.52) (CYPIIC9) (Cholesterol 25-hydroxylase) (Cytochrome P-450MP) (Cytochrome P450 MP-4) (Cytochrome P450 MP-8) (Cytochrome P450 PB-1) (S-mephenytoin 4-hydroxylase),CYP2C9 CYP2C10,490
+Vitamin K-dependent protein S,PROS1,661
+Vitamin K-dependent protein S,PROS1,556
+Coagulation factor VII (Fragment),,21
+"cDNA FLJ56936, highly similar to Vitamin K-dependent protein S",,426
+"cDNA FLJ76587, highly similar to Homo sapiens vitamin K epoxide reductase complex, subunit 1-like 1 (VKORC1L1), mRNA",,176
+VKc domain-containing protein (Fragment),,104
+Vitamin K-dependent protein S (Fragment),PROS1,103
+Vitamin K epoxide reductase complex subunit 1,VKORC1,149
+Vitamin K epoxide reductase complex subunit 1,VKORC1,161
+Vitamin K-dependent gamma-carboxylase,GGCX,73
+VKORC1 (Fragment),VKORC1,64
+Vitamin K-dependent gamma-carboxylase (Fragment),,56
+VKORC1 (Fragment),VKORC1,35
+VKc domain-containing protein (Fragment),,166
+Vitamin K-dependent gamma-carboxylase,GGCX,123
+Vitamin K-dependent protein Z variant 1,PROZ,421
+Vitamin K epoxide reductase complex subunit 1 (Fragment),VKORC1,36
+"cDNA FLJ53640, highly similar to Vitamin K-dependent gamma-carboxylase",,574
+Vitamin K epoxide reductase complex subunit 1 (Fragment),VKORC1,57
+Vitamin K epoxide reductase complex subunit 1-like protein 1,VKORC1L1,223
+Vitamin K-dependent protein C (Fragment),PROC,126
+Vitamin K-dependent protein C (Fragment),PROC,175
+Vitamin K epoxide reductase complex (Fragment),VKORC1,68
+Protein S isoform 2 (Vitamin K-dependent protein S) (Fragment),PROS1,708
+Vitamin K-dependent protein S (Fragment),PROS1,105
+"Periostin, osteoblast specific factor, isoform CRA_c",POSTN hCG_32814,836
+"cDNA FLJ51023, highly similar to Vitamin K-dependent protein C",,272
+Vitamin K epoxide reductase complex subunit 1,VKORC1,160
+Vitamin K epoxide reductase complex subunit 1 isoform 2,VKORC1,92
+Matrix Gla protein (MGP),MGP hCG_24416,103
+Vitamin K epoxide reductase complex subunit 1 (Fragment),VKORC1,92
+Vitamin K epoxide reductase complex subunit 1 (Fragment),VKORC1,43
+Vitamin K epoxide reductase complex subunit 1 isoform 1 (Fragment),VKORC1,163
+"cDNA FLJ51179, highly similar to Vitamin K-dependent protein C",,421
+Vitamin K-dependent protein C,PROC,52
+Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),PRRG1 PRGP1 TMG1,218
+Transmembrane gamma-carboxyglutamic acid protein 3 (Proline-rich gamma-carboxyglutamic acid protein 3) (Proline-rich Gla protein 3),PRRG3 PRGP3 TMG3,231
+Conserved oligomeric Golgi complex subunit 6 (COG complex subunit 6) (Component of oligomeric Golgi complex 6),COG6 KIAA1134,657
+Carbonyl reductase [NADPH] 1 (EC 1.1.1.184) (15-hydroxyprostaglandin dehydrogenase [NADP(+)]) (EC 1.1.1.141) (EC 1.1.1.197) (20-beta-hydroxysteroid dehydrogenase) (NADPH-dependent carbonyl reductase 1) (EC 1.1.1.53) (Prostaglandin 9-ketoreductase) (PG-9-KR) (Prostaglandin-E(2) 9-reductase) (EC 1.1.1.189) (Short chain dehydrogenase/reductase family 21C member 1),CBR1 CBR CRN SDR21C1,277
+Transmembrane gamma-carboxyglutamic acid protein 2 (Proline-rich gamma-carboxyglutamic acid protein 2) (Proline-rich Gla protein 2),PRRG2 PRGP2 TMG2,202
+Transmembrane gamma-carboxyglutamic acid protein 4 (Proline-rich gamma-carboxyglutamic acid protein 4) (Proline-rich Gla protein 4),PRRG4 PRGP4 TMG4,226
+Vitamin K-dependent protein C (Fragment),PROC,236
+Vitamin K-dependent protein S,PROS1,662
+Vitamin K-dependent protein C,PROC,495
+"cDNA FLJ51034, highly similar to Vitamin K-dependent protein C",,517
+Vitamin K-dependent protein S (Fragment),PROS1,57
+Vitamin K-dependent gamma-carboxylase,GGCX,66
+Vitamin K-dependent protein C (Fragment),PROC,116
+VKc domain-containing protein (Fragment),,121
+,,
